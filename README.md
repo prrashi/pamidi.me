@@ -1,2 +1,2 @@
 # pamidi.me
-personal blog
+personal micro blog, will adding my thoughts, poems, essays or technical stuff etc
