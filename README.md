@@ -1,0 +1,2 @@
+# pamidi.me
+personal blog
